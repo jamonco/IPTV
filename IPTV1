@@ -1,50 +1,52 @@
 #EXTM3U
 #PLAYLIST:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",A&E
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/51535.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",A&E
-http://rv.therevenge.co:80/live/11223344/11223344/81424.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",A&E
-http://185.71.64.167:80/307245103371/307245103371/81424?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC EAST
-http://rv.therevenge.co:80/live/242424/242424/81423.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC SPARK
-http://rv.therevenge.co:80/565656/565656/81277?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC SPARK
-http://185.71.64.167:80/307245103371/307245103371/81277?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC SPARK
-http://rv.therevenge.co:80/live/242424/242424/81277.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC SPARK
-http://51.222.82.89:22829/1212/1212/337797?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC WEST
-http://rv.therevenge.co:80/565656/565656/81422?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ACTION
-http://rv.therevenge.co:80/565656/565656/81421?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ACTION
-http://185.71.64.167:80/307245103371/307245103371/81421?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ACTION
-http://rv.therevenge.co:80/live/242424/242424/81421.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ACTION
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81421?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",AMI-TELE HD
-http://rv.therevenge.co:80/live/11223344/11223344/83375.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",AMI-TELE HD
-http://rv.therevenge.co:80/live/242424/242424/83375.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",AMC
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/51537.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",AMC
-http://rv.therevenge.co:80/live/242424/242424/81418.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",AMC
-http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81418?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ANIMAL PLANET
-http://rv.therevenge.co:80/565656/565656/81235?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ANIMAL PLANET
-http://rv.therevenge.co:80/live/11223344/11223344/81235.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ANIMAL PLANET
-http://185.71.64.167:80/307245103371/307245103371/81235?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",APTN
-http://rv.therevenge.co:80/live/242424/242424/83254.m3u8?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",APTN
-http://185.71.64.167:80/307245103371/307245103371/81417?checkedby:dailyfreeiptvlist.com
-#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",APTN
-http://rv.therevenge.co:80/565656/565656/83254?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/it.png" group-title="undefined",Super J TV, Super J TV Teramo (Opt-1)
+https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/it.png" group-title="undefined",TeleNordest, TeleNordest Friuli
+https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/md.png" group-title="undefined",Elita TV, Elita TV Rezina
+http://46.55.111.242:8080/Rezina.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/pt.png" group-title="undefined",Caca Vision, Caçavision (MQ), Caçavision (Opt-2) (New!), Ca�avision (Opt-2)
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/pt.png" group-title="undefined",Caca Vision, Caçavision (LQ), Caçavision (Opt-1) (New!), Ca�avision (Opt-1)
+https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/pt.png" group-title="undefined",Caca Vision, Caçavision (HQ), Caçavision (Opt-3) (New!), Ca�avision (Opt-3)
+https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",RT, RT (Rusia), RT Español, RT Espa�ol
+https://rt-esp.secure.footprint.net/1102.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/es.png" group-title="undefined",Canal Parlamento, Canal Parlamento (Opt-2)
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/es.png" group-title="undefined",Televisión de Galicia Europa, TVG, TVG (Opt-1)
+http://europa-crtvg.flumotion.com/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/es.png" group-title="undefined",TVG Momento, TVG Momentos G
+http://momentog-crtvg.flumotion.com/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/tr.png" group-title="undefined",EURO STAR, EuroStar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/gb.png" group-title="undefined",Cruise 1st TV, Cruise1st TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/gb.png" group-title="undefined",RT UK, RT UK (RU), RT UK (Russia)
+https://rt-uk.secure.footprint.net/1106.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="undefined",CA | EMCI TV, EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="undefined",CA | Legislative Assembly of Ontario, Legislative Assembly of Ontario
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="undefined",CA | NTV, NTV, NTV CA
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="undefined",The Shopping Channel
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/us.png" group-title="undefined",Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/us.png" group-title="undefined",Gracia TV, Gracia Tv
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/us.png" group-title="undefined",NWCT 12 Minnesota, CCX Media Minnesota, CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/us.png" group-title="undefined",SBT PE Interior, SBT Pernambuco
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/us.png" group-title="undefined",USA:Newsy, Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/us.png" group-title="undefined",+24, +24 Eventos 4
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/us.png" group-title="undefined",+24, +24 Eventos 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/us.png" group-title="undefined",1 TV (Opt-2)
+http://amtv1.livestreamingcdn.com/am2abr/index.m3u8?checkedby:dailyfreeiptvlist.com
