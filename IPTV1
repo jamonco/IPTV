@@ -50,3 +50,272 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_a
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/us.png" group-title="undefined",1 TV (Opt-2)
 http://amtv1.livestreamingcdn.com/am2abr/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Seinfeld
+http://raostvip.com:8080/semi16/1609.sem/115528?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Speed Racer
+http://raostvip.com:8080/semi16/1609.sem/115529?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 The Benny Hill Show
+http://raostvip.com:8080/semi16/1609.sem/115532?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 The Sopranos
+http://raostvip.com:8080/semi16/1609.sem/115539?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 STAR MAX HD
+http://raostvip.com:8080/semi16/1609.sem/115506?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 STAR MAX HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136133.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 USA
+http://raostvip.com:8080/semi16/1609.sem/115507?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 USA
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/3.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68144?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://mags.vip:2086/live/miriam/miriam123/13558.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC (KMGH-DENVER CO)
+http://mags.vip:2086/live/miriam/miriam123/90328.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC (KTNV- LAS VEGAS NV)
+http://mags.vip:2086/live/miriam/miriam123/90333.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC (WLS- CHICAGO IL)
+http://mags.vip:2086/live/miriam/miriam123/90341.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC News HD
+http://raostvip.com:8080/semi16/1609.sem/115619?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ACC Network HD
+http://raostvip.com:8080/semi16/1609.sem/115650?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ACCU WEATHER
+http://mags.vip:2086/live/miriam/miriam123/63468.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ACCU WEATHER HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136294.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ACTION MAX
+http://starshare.live:8080/live/0987654321/1234567890/3362.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/105.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/30905?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://mags.vip:2086/live/miriam/miriam123/562.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC HD
+http://raostvip.com:8080/semi16/1609.sem/115670?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136319.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC IFC FILM PICKS
+http://mags.vip:2086/live/miriam/miriam123/100403.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://raostvip.com:8080/semi16/1609.sem/115677?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136326.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ANIMAL PLANET FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64154.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/F9GnABn.png" group-title="Entertainment;Undefined",Adult Swim,US | Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Al Jazeera Amri
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136305.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/hjvjGVf.png" group-title="Undefined",American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC AMERICA
+http://mags.vip:2086/live/miriam/miriam123/1277.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC America HD
+http://raostvip.com:8080/semi16/1609.sem/115705?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BBC America HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136354.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",BEIN SPORTS ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BET FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64152.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BET FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/86000?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BET HER HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136371.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BIG TEN NETWORK
+http://mags.vip:2086/live/miriam/miriam123/428.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 1 HD
+http://raostvip.com:8080/semi16/1609.sem/115739?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 1 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136392.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 2 HD
+http://raostvip.com:8080/semi16/1609.sem/115740?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 2 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136393.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 3 HD
+http://raostvip.com:8080/semi16/1609.sem/115741?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 3 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136394.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 4 HD
+http://raostvip.com:8080/semi16/1609.sem/115742?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 4 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136395.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 5 HD
+http://raostvip.com:8080/semi16/1609.sem/115743?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 5 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136396.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 6 HD
+http://raostvip.com:8080/semi16/1609.sem/115744?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 6 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136397.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 7 HD
+http://raostvip.com:8080/semi16/1609.sem/115745?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 7 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136398.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 8 HD
+http://raostvip.com:8080/semi16/1609.sem/115746?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BOX OFFICE 8 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136399.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BRAVO
+http://mags.vip:2086/live/miriam/miriam123/315.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",BRAVO FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64147.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK (East) HD
+http://raostvip.com:8080/semi16/1609.sem/115769?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CARTOON NETWORK FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64139.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KGMB) HONOLULU HAWAII
+http://mags.vip:2086/live/miriam/miriam123/96773.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (KIRO- Seattle WA)
+http://mags.vip:2086/live/miriam/miriam123/90355.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",CBS Sports Network HD
+http://raostvip.com:8080/semi16/1609.sem/115911?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX ACTION MAX HD
+http://raostvip.com:8080/semi16/1609.sem/116039?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMAX Moremax FHD
+http://raostvip.com:8080/semi16/1609.sem/116043?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CMT HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9783?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNBC
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/30927?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNBC
+http://red.ipfox.org:8080/Karim2_534341/40036069/27253?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNBC FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64142.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNBC W
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136703.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136705.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN FHD
+http://raostvip.com:8080/semi16/1609.sem/116058?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN HD
+http://cobraa.in:8000/Fawzi0555660873/2L30ce6fj5/89436?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",COMEDY CENTRAL
+http://mags.vip:2086/live/miriam/miriam123/257.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",COMEDY CENTRAL FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64135.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",COMEDY TV FHD
+http://raostvip.com:8080/semi16/1609.sem/116068?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",COMEDY TV
+http://mags.vip:2086/live/miriam/miriam123/63643.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",COOKING CHANNEL FHD 1080
+http://mags.vip:2086/live/miriam/miriam123/64134.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",COOKING Channel FHD
+http://raostvip.com:8080/semi16/1609.sem/116070?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",COURT TV HD
+http://raostvip.com:8080/semi16/1609.sem/116073?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CP24
+http://raostvip.com:8080/semi16/1609.sem/116075?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CRIME AND INVESTIGATION (L)
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/59307.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CW HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9789?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CW HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",California Music Channel FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136420.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network East
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/30990?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cartoon Network HD
+http://raostvip.com:8080/semi16/1609.sem/115771?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 01 PPV
+http://raostvip.com:8080/semi16/1609.sem/115985?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 01 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136643.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 02 PPV
+http://raostvip.com:8080/semi16/1609.sem/115987?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 02 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136644.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 03 PPV
+http://raostvip.com:8080/semi16/1609.sem/115989?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 03 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136645.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 04 PPV
+http://raostvip.com:8080/semi16/1609.sem/115991?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 04 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136646.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 05 PPV
+http://raostvip.com:8080/semi16/1609.sem/115993?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 05 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136647.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 06 PPV
+http://raostvip.com:8080/semi16/1609.sem/115995?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 06 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136648.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 07 PPV
+http://raostvip.com:8080/semi16/1609.sem/115997?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 07 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136649.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 08 PPV
+http://raostvip.com:8080/semi16/1609.sem/115999?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 08 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136650.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 09 End Game
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136651.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 09 PPV
+http://raostvip.com:8080/semi16/1609.sem/116001?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 09 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136652.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 10 PPV
+http://raostvip.com:8080/semi16/1609.sem/116003?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 10 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136653.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 11 PPV
+http://raostvip.com:8080/semi16/1609.sem/116004?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 11 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136654.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 12 PPV
+http://raostvip.com:8080/semi16/1609.sem/116007?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 13 PPV
+http://raostvip.com:8080/semi16/1609.sem/116008?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 13 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136656.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 14 PPV
+http://raostvip.com:8080/semi16/1609.sem/116011?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 14 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136657.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 15 PPV
+http://raostvip.com:8080/semi16/1609.sem/116012?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 15 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136658.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 16 PPV
+http://raostvip.com:8080/semi16/1609.sem/116014?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 16 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136659.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 17 PPV
+http://raostvip.com:8080/semi16/1609.sem/116015?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 17 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136660.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 18 PPV
+http://raostvip.com:8080/semi16/1609.sem/116016?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 18 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136661.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 20 PPV
+http://raostvip.com:8080/semi16/1609.sem/116017?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinema 20 PPV
+http://plustlc.com:8080/live/huseyin61/24.10.2020/136662.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Crime & Investigation HD
+http://live.faucontv.com:8000/akrem/NiFZ0sPdL2/9782?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Corpus Christi Ship
+http://raostvip.com:8080/semi16/1609.sem/116072?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/5bb1b439ea5c9e53afd21325/colorLogoPNG.png" group-title="Undefined",Complex Networks
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=197&deviceId=5bb1b439ea5c9e53afd21325&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Comet HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/86007?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Comedy Central West HD
+http://ztvuk.com:8080/nouman/nouman/13849?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Columbus FOX WXTX
+http://raostvip.com:8080/semi16/1609.sem/116062?checkedby:iptvcat.com
+
