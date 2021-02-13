@@ -1,197 +1,50 @@
 #EXTM3U
-#EXTINF:-1,CA: ABC Buffalo (WKBW)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8106
-#EXTINF:-1,CA: ABC Spark
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8107
-#EXTINF:-1,CA: Adult Swim
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8046
-#EXTINF:-1,CA: AMC
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8100
-#EXTINF:-1,CA: BBC Canada
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8096
-#EXTINF:-1,CA: BNN Bloomberg
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8105
-#EXTINF:-1,CA: Cable Pulse 24
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8059
-#EXTINF:-1,CA: Canal D (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8183
-#EXTINF:-1,CA: Casa (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8185
-#EXTINF:-1,CA: CBC Calgary
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8216
-#EXTINF:-1,CA: CBC Montreal
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8212
-#EXTINF:-1,CA: CBC News Network
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8094
-#EXTINF:-1,CA: Global Durham
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8032
-#EXTINF:-1,CA: CBC Ottawa
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8217
-#EXTINF:-1,CA: CBC St. John's (CBNT)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8031
-#EXTINF:-1,CA: CBC Toronto
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8218
-#EXTINF:-1,CA: CHCH
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8092
-#EXTINF:-1,CA: Cine POP (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8186
-#EXTINF:-1,CA: City Toronto
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8222
-#EXTINF:-1,CA: City Vancouver
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8223
-#EXTINF:-1,CA: City Calgary
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8220
-#EXTINF:-1,CA: CMT
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8090
-#EXTINF:-1,CA: CNBC
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8052
-#EXTINF:-1,CA: CNN
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8224
-#EXTINF:-1,CA: Cooking Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8226
-#EXTINF:-1,CA: Cottage Life
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8227
-#EXTINF:-1,CA: CP24
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8089
-#EXTINF:-1,CA: CPAC (ENG)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8088
-#EXTINF:-1,CA: Crave 1
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8151
-#EXTINF:-1,CA: Crave 2
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8152
-#EXTINF:-1,CA: Crave 3
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8153
-#EXTINF:-1,CA: Crave 4
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8154
-#EXTINF:-1,CA: Crime & Investigation
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8115
-#EXTINF:-1,CA: CTV 2 Vancouver
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8230
-#EXTINF:-1,CA: CTV Comedy
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8087
-#EXTINF:-1,CA: CTV Drama
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8051
-#EXTINF:-1,CA: CTV Halifax
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8232
-#EXTINF:-1,CA: CTV News Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8086
-#EXTINF:-1,CA: CTV SCI-FI
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8030
-#EXTINF:-1,CA: CTV Toronto
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8085
-#EXTINF:-1,CA: Dejaview
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8240
-#EXTINF:-1,CA: Discovery Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8082
-#EXTINF:-1,CA: Discovery Science
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8241
-#EXTINF:-1,CA: Disney Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8081
-#EXTINF:-1,CA: Disney Junior
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8103
-#EXTINF:-1,CA: Disney XD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8080
-#EXTINF:-1,CA: DIY Network
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8079
-#EXTINF:-1,CA: DTOUR
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8078
-#EXTINF:-1,CA: Evasion (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8189
-#EXTINF:-1,CA: Family
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8075
-#EXTINF:-1,CA: Family CHRGD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8076
-#EXTINF:-1,CA: Family JR
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8074
-#EXTINF:-1,CA: Food Network
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8049
-#EXTINF:-1,CA: FX
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8024
-#EXTINF:-1,CA: Game TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8071
-#EXTINF:-1,CA: Global Toronto
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8244
-#EXTINF:-1,CA: Global Vancouver
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8245
-#EXTINF:-1,CA: HBO 1
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8156
-#EXTINF:-1,CA: HBO 2
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8155
-#EXTINF:-1,CA: Headline News
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8048
-#EXTINF:-1,CA: HGTV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8068
-#EXTINF:-1,CA: History Channel
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8067
-#EXTINF:-1,CA: HLN
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8066
-#EXTINF:-1,CA: Hollywood Suite 90's
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8334
-#EXTINF:-1,CA: Lifetime
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8065
-#EXTINF:-1,CA: Love Nature
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8134
-#EXTINF:-1,CA: Makeful
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8064
-#EXTINF:-1,CA: MovieTime
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8026
-#EXTINF:-1,CA: MTV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8063
-#EXTINF:-1,CA: Much
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8116
-#EXTINF:-1,CA: Music Plus (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8272
-#EXTINF:-1,CA: NatGeo
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8028
-#EXTINF:-1,CA: Nickelodeon
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8022
-#EXTINF:-1,CA: OLN
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8058
-#EXTINF:-1,CA: OMNI 1
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8057
-#EXTINF:-1,CA: OMNI 2
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8056
-#EXTINF:-1,CA: OWN
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8055
-#EXTINF:-1,CA: PBS Buffalo (WNED)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8054
-#EXTINF:-1,CA: Peachtree
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8053
-#EXTINF:-1,CA: Showcase
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8035
-#EXTINF:-1,CA: Spike TV / Paramount
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8262
-#EXTINF:-1,CA: Super Ecran 2 (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8268
-#EXTINF:-1,CA: Super Ecran 3 (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8269
-#EXTINF:-1,CA: Super Ecran 4 (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8270
-#EXTINF:-1,CA: Teletoon (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8102
-#EXTINF:-1,CA: TFO (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8101
-#EXTINF:-1,CA: The Wather Network
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8029
-#EXTINF:-1,CA: TLC
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8114
-#EXTINF:-1,CA: Travel Escape
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8263
-#EXTINF:-1,CA: Treehouse
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8027
-#EXTINF:-1,CA: TSC
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8044
-#EXTINF:-1,CA: TVA Montreal (CFTM)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8098
-#EXTINF:-1,CA: TVO
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8264
-#EXTINF:-1,CA: Unis TV (FR)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8097
-#EXTINF:-1,CA: Vision
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8021
-#EXTINF:-1,CA: W Network
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8020
-#EXTINF:-1,CA: YES TV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8019
-#EXTINF:-1,CA: YTV
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/8017
+#PLAYLIST:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",A&E
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/51535.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",A&E
+http://rv.therevenge.co:80/live/11223344/11223344/81424.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",A&E
+http://185.71.64.167:80/307245103371/307245103371/81424?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC EAST
+http://rv.therevenge.co:80/live/242424/242424/81423.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC SPARK
+http://rv.therevenge.co:80/565656/565656/81277?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC SPARK
+http://185.71.64.167:80/307245103371/307245103371/81277?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC SPARK
+http://rv.therevenge.co:80/live/242424/242424/81277.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC SPARK
+http://51.222.82.89:22829/1212/1212/337797?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ABC WEST
+http://rv.therevenge.co:80/565656/565656/81422?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ACTION
+http://rv.therevenge.co:80/565656/565656/81421?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ACTION
+http://185.71.64.167:80/307245103371/307245103371/81421?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ACTION
+http://rv.therevenge.co:80/live/242424/242424/81421.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ACTION
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81421?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",AMI-TELE HD
+http://rv.therevenge.co:80/live/11223344/11223344/83375.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",AMI-TELE HD
+http://rv.therevenge.co:80/live/242424/242424/83375.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",AMC
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/51537.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",AMC
+http://rv.therevenge.co:80/live/242424/242424/81418.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",AMC
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/81418?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ANIMAL PLANET
+http://rv.therevenge.co:80/565656/565656/81235?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ANIMAL PLANET
+http://rv.therevenge.co:80/live/11223344/11223344/81235.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",ANIMAL PLANET
+http://185.71.64.167:80/307245103371/307245103371/81235?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",APTN
+http://rv.therevenge.co:80/live/242424/242424/83254.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",APTN
+http://185.71.64.167:80/307245103371/307245103371/81417?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="canada" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ca.png" group-title="canada",APTN
+http://rv.therevenge.co:80/565656/565656/83254?checkedby:dailyfreeiptvlist.com
